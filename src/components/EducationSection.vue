@@ -14,10 +14,11 @@
     <h3>Certifications</h3>
 
     <ul>
-      <li>AWS Certified Cloud Practitioner</li>
-      <li>Computer Programming Certificate</li>
-      <li>Video Game Design Certificate</li>
-      <li>HTML & CSS Certificate</li>
+      <li>AWS Certified Cloud Practitioner through Amazon AWS</li>
+      <li>HTML & CSS Certificate through Pearson-Vue/Certiport</li>
+      <li>Databases Certification through Pearson-Vue/Certiport</li>
+      <li>Computer Programming Certificate through Ozarks Tech</li>
+      <li>Video Game Design Certificate through Ozarks Tech</li>
     </ul>
   </section>
 </template>
