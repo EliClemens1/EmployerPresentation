@@ -11,5 +11,5 @@
 </template>
 
 <script setup lang="ts">
-import { skills } from '@/data/Skills'
+import { skills } from '@/data/skills'
 </script>
